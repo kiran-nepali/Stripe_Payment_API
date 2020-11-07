@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kiran/Desktop/AspNetCore/StripeApi/StripeApi.csproj": {}
+  },
+  "projects": {
+    "/Users/kiran/Desktop/AspNetCore/StripeApi/StripeApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kiran/Desktop/AspNetCore/StripeApi/StripeApi.csproj",
+        "projectName": "StripeApi",
+        "projectPath": "/Users/kiran/Desktop/AspNetCore/StripeApi/StripeApi.csproj",
+        "packagesPath": "/Users/kiran/.nuget/packages/",
+        "outputPath": "/Users/kiran/Desktop/AspNetCore/StripeApi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kiran/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[39.22.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
