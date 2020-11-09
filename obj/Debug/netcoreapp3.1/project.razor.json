@@ -14397,6 +14397,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/kiran/Desktop/AspNetCore/StripeApi/Views/Payments/Index.cshtml",
+      "TargetPath": "Views\\Payments\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/kiran/Desktop/AspNetCore/StripeApi/Views/_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -14412,13 +14417,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/kiran/Desktop/AspNetCore/StripeApi/Views/Home/Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/kiran/Desktop/AspNetCore/StripeApi/Views/Home/Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FilePath": "/Users/kiran/Desktop/AspNetCore/StripeApi/Views/Payments/Privacy.cshtml",
+      "TargetPath": "Views\\Payments\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
